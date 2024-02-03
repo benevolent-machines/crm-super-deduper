@@ -25,4 +25,5 @@ This approach ensures a hassle-free experience, enabling you to efficiently clea
 
 Here's a simple example to start: 
 
-https://github.com/benevolent-machines/crm-super-deduper/blob/main/docs/examples/simple.ipynb
+https://colab.research.google.com/github/benevolent-machines/crm-super-deduper/blob/main/docs/examples/simple.ipynb
+
