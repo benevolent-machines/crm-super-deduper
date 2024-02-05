@@ -11,7 +11,7 @@ That's how many comparisons it takes to find inexact duplicates among a million 
 
 Deduplicating address data in CRM systems is essential. Duplicate customer data can lead to a myriad of problems that directly impact the quality of customer service, the effectiveness of marketing campaigns, and the accuracy of sales forecasts. Ensuring each customer has a unique record enhances personalized service and operational efficiency, directly impacting business growth and customer satisfaction. 
 
-The CRM Super Deduper, an open-source tool, streamlines the identification of duplicate CRM records for large datasets.  Leveraging advanced data science methodologies such as TF/IDF scoring, nearest neighbor algorithms, and multi-pass masking, it transforms a complex challenge into a manageable task that completes in minutes. This approach not only simplifies the deduplication process but also ensures quick and effective results using readily accessible resources.
+The CRM Super Deduper, an open-source tool, streamlines the identification of duplicate CRM records for large datasets.  Leveraging advanced data science methodologies such as TF/IDF scoring, nearest neighbor algorithms, and multi-pass masking, it transforms a complex challenge into a manageable task that completes in minutes. 
 
 ## Progress 
 As of 2/5/2024, we have achieved a 98% recall of duplicates from 174,090 records (15,153,577,005 comparisons) in 11 minutes and 47 seconds. Another test with 75,232 records (2,829,889,296 comparisons) took just 2 minutes and 32 seconds. Deduplicating up to 100,000 records can now be done in less than 10 minutes. We're testing with Google Colab, so anyone can easily use this powerful tool with readily available resources to achieve similar results.
