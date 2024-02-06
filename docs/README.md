@@ -1,5 +1,5 @@
 # 499,999,500,000 😱
-That's how many comparisons it takes to find inexact duplicates among a million records.  That's why it's a super hard task to do for larger datasets.  As the number of records increase, the number of needed comparisons rises exponentially:  
+That's how many comparisons it takes to find inexact duplicates among a million records.  That's why it's a super hard task to do for larger datasets.  As the number of records increase, the number of needed comparisons, (n(n-1)/2), rises exponentially:  
 
 * 10 -> 45 😃
 * 100 -> 4,950 😊
